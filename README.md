@@ -12,3 +12,5 @@ A smart and modern clock app.
 - Smooth animations
 
 ### Download it and share your experience and tell us what needs to be improved and what you did not like.
+
+## Click here to download and install the application 👇.
